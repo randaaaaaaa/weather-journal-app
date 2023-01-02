@@ -1,9 +1,9 @@
 # Weather-Journal App Project
-overview:
+Overview:
 
 I set up my environment by unstalling Node and made sure it  works  and included in my server.js file.
-Added POST and GET routes to make sure data transfere from server sid.
-Got API credentials  from OpenWeatherMap  website
+Added POST and GET routes to make sure data transfere from server side.
+Got API credentials  from OpenWeatherMap  website.
 Created async functions to fetch weather data and stor it in a variable.
 
 Resources:
